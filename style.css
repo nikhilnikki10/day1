@@ -1,0 +1,27 @@
+p{
+    color: orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    border: 20px solid blue;
+    padding: 20px;
+    margin: 20px 40px ;
+    background-image:url("https://st5.depositphotos.com/35914836/63547/i/450/depositphotos_635479512-stock-photo-brown-wooden-wall-texture-background.jpg") ;
+}
+table,th,td{
+    border: 3px;
+    border-style: solid;
+    width: 70%;
+}
+li{
+    list-style-type:lower-alpha;
+}
+img{
+    width: 400px;
+    height: 200px;
+}
+head{
+    color:red:aliceblue
+}
+#hi{
+    color:blue;
+}
